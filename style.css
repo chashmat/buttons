@@ -1,0 +1,90 @@
+h1{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    text-shadow: -8px 6px 3.75px grey;
+}
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
+.btn6{
+    color: rgb(51, 154, 240);
+    border: 2px solid rgb(51, 154, 240);
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    padding: 11px 13px;
+    font-size: 25px;
+    cursor: pointer;
+}
+.btn6:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(51, 155, 240);
+}
+.btn1{
+    width: 200px;
+    height: 50px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(198, 56, 39);
+    border: 2px solid rgb(198, 56, 39);
+    font-size: large;
+    cursor: pointer;
+}
+.btn1:hover{
+    background-color: rgb(237, 77, 80);
+}
+.btn2{
+    width: 100px;
+    height: 50px;
+    color: rgb(69, 93, 181);
+    background-color: rgb(254, 214, 53);
+    border: 2px solid rgb(69, 93, 181);
+    font-size: 21px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.btn2:hover{
+    background-color: rgb(70, 95, 185);
+    color: rgb(253, 216, 66);
+}
+.btn3{
+    width: 150px;
+    height: 50px;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(to right, rgb(100, 208, 200) , rgb(157, 209, 143));
+    border: 2px solid rgb(100, 208, 200);
+    border-radius: 50px;
+    font-size: 21px;
+    cursor: pointer;
+}
+.btn3:hover{
+    background: linear-gradient(to right, rgb(100, 208, 200) , rgb(100, 208, 200));
+}
+.btn4{
+    width: 120px;
+    height: 50px;
+    color: rgb(108, 81, 238);
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(108, 81, 238);
+    border-radius: 10px;
+    font-size: 21px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.btn4:hover{
+    background-color: rgb(108, 81, 238);
+    color: rgb(255, 255, 255);
+}
+.btn5{
+    width: 150px;
+    height: 50px;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(to top, rgb(245, 163, 50) , rgb(250, 195, 51));
+    border: 2px solid rgb(247, 179, 50);
+    border-radius: 4px;
+    font-size: 19px;
+    text-shadow: 1px 2px rgb(128, 128, 128);
+    cursor: pointer;
+}
+.btn5:hover{
+    background: linear-gradient(to top, rgb(250, 195, 51) , rgb(245, 163, 50));
+}
